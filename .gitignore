@@ -1,3 +1,4 @@
 .zip
 clustering-env
 data/*.zip
+.Rhistory
